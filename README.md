@@ -1,4 +1,4 @@
-SKYAPP HTML5 TEMPLATE
+THIS SAMPLE SAAS AND BOOTSTRAP HTML5 TEMPLATE
 ================
 
 This is a Bootstrap HTML5 template with SASS
